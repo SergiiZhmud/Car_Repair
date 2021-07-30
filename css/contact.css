@@ -1,0 +1,12 @@
+#indicator {
+    position: absolute;
+    padding: 0;
+    border: 3px solid var(--orange-color);
+    background-color: #2a2a2969;
+    border-radius: 50%;
+    width: 29%;
+    padding-top:20%;
+    left: 35%;
+    top: 80%;
+    Transition: 1.5s;
+}

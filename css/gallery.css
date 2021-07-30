@@ -1,0 +1,20 @@
+#indicator {
+    position: absolute;
+    padding: 0;
+    border: 3px solid var(--orange-color);
+    background-color: #2a2a2969;
+    border-radius: 50%;
+    width: 29%;
+    padding-top:20%;
+    left: 69%;
+    top: -13%;
+    Transition: 1.5s;
+}
+
+td > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px;
+}
